@@ -1,0 +1,7 @@
+RandomForest Regressor - RUL Prediction
+
+MAE:  11.0504
+RMSE: 16.2803
+R^2:  0.9420
+
+Goal: MAE < 20 cycles
