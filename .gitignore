@@ -1,0 +1,9 @@
+# Ignore large/binary artifacts
+models/*.pkl
+
+# Optional: local data artifacts (uncomment if desired)
+# data/processed/
+# results/*.csv
+# results/*.txt
+
+
