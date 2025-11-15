@@ -18,10 +18,10 @@ op_setting_1,0.0033911130975347193
 op_setting_2,0.0022030180778062616
 sensor_17,0.0016146137535333269
 sensor_6,0.00011030457856224522
-sensor_5,0.0
-op_setting_3,0.0
 sensor_1,0.0
 sensor_10,0.0
 sensor_16,0.0
-sensor_19,0.0
 sensor_18,0.0
+sensor_19,0.0
+sensor_5,0.0
+op_setting_3,0.0
