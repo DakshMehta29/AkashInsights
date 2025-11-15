@@ -1,0 +1,47 @@
+# AkashInsights - Dual-Agent Aerospace AI System
+# Core dependencies
+
+# Data processing
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+tensorflow>=2.13.0
+keras>=2.13.0
+
+# Audio processing
+librosa>=0.10.0
+soundfile>=0.12.0
+sounddevice>=0.4.6
+
+# Speech recognition
+openai-whisper>=20230918
+transformers>=4.30.0
+torch>=2.0.0
+
+# Translation (Make-in-India)
+googletrans==4.0.0rc1
+# indicTrans (optional, for better Indian language support)
+# Install separately: pip install indicTrans
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.14.0
+
+# Web dashboard
+streamlit>=1.25.0
+
+# Database
+# SQLite3 is built-in to Python
+
+# Utilities
+joblib>=1.3.0
+tqdm>=4.65.0
+
+# Optional: For advanced features
+# indicTrans (for Indian language translation)
+# Install: pip install indicTrans
+

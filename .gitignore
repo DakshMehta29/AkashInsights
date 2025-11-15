@@ -1,6 +1,25 @@
 # Ignore large/binary artifacts
 models/*.pkl
 
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Temporary files
+temp_*.wav
+temp_*.mp3
+temp_recording.wav
+temp_mic_recording.wav
+temp_analysis.wav
+
 # Optional: local data artifacts (uncomment if desired)
 # data/processed/
 # results/*.csv
